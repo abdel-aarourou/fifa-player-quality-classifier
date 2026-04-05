@@ -77,7 +77,7 @@ Key finding: L1 outperformed L2 and Dropout individually, likely because its spa
 
 ```
 .
-├── practica2.ipynb                           # Full experiment notebook (37 steps)
+├── fifa19_player_quality_classifier.ipynb    # Full experiment notebook (37 steps)
 ├── FootballPlayerPreparedCleanAttributes.csv # 16,134 × 22 scaled input features
 ├── FootballPlayerOneHotEncodedClasses.csv    # One-hot encoded labels (4 classes)
 ├── requirements.txt
